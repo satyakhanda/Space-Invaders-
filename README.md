@@ -2,7 +2,7 @@
 
 **Description**
 
-My own version of space invaders
+Space Invaders the game. This was a school project.
 
 **Skills Learned and Tools Used**
 - Java
